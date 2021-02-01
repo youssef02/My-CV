@@ -5,8 +5,9 @@ ARRASSEN YOUSSEF
 (Currently i am Studying for my Master degree, and looking for a job) 
 (studing Project Management)
 
-### INTERESTED IN
-•Google Cloud Platform
+### INTERESTED IN:
+
+•	Google Cloud Platform
 
 •	IoT, IIoT
 
