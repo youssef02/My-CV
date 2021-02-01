@@ -2,8 +2,12 @@
 
 
 ARRASSEN YOUSSEF
+
+
 (Currently i am Studying for my Master degree, and looking for a job) 
 (studing Project Management)
+
+
 
 ### INTERESTED IN:
 
@@ -14,14 +18,17 @@ ARRASSEN YOUSSEF
 •	TensorFlow (ML)
 
 
+
 ### DATE OF BIRTH:
 
 24/04/1998
 
+
 ### ADDRESS:
 
 lot toufik boulouiz rue a 2 nr 44
-oujda 
+oujda - Morocco
+
 
 ### LANGUAGE:
 
@@ -32,6 +39,7 @@ French: pretty good
 Arabic: mother tongue
 
 German: A2
+
 
 ### CONTACT:
 
@@ -163,6 +171,8 @@ IBN TOFAIL university kenitra - Morocco
 
 Android App Dev, Java EE, WEB 2.0
 
+
+
 **2016 -2019:**
 
 Diploma of higher Education of Software development technician
@@ -170,6 +180,8 @@ Diploma of higher Education of Software development technician
 Specialized Institute of Applied Technology Lazaret Oujda - Morocco
 
 Algorithm, UML, MERISE, C, C#, MS SQL, WEB 2.0, 
+
+
 
 **2016**:
 
@@ -189,6 +201,8 @@ IBN TOFAIL University Kenitra – Morocco
 
 Conception and Realization of a Web site that manage commercial ads using **Django**.and **MariaDB**
 
+
+
 **2019**
 
 End Of Study Projects:
@@ -197,6 +211,8 @@ Specialized Institute Of Applied Technology Lazaret Oujda – Morocco
 
 System for Library management using **.Net C#** and **Microsoft SQL server**
 
+
+
 **01/03/2019 – 31/03/2019**
 
 Company FIGENOR EXPERTISE Rabat:
@@ -204,6 +220,7 @@ Company FIGENOR EXPERTISE Rabat:
 Training management Software
 
 Using **.Net C#** and **MS SQL**
+
 
 
 **01/03/2018 – 31/03/2018**
@@ -216,12 +233,15 @@ Using **Google Maps API**, **Android**, **MS SQL**
 
 		WORK EXPERIENCE
 
+
+
 **September 2019 - December 2019:**
 
 Company FIGENOR EXPERTISE, Rabat:
 
 Migration to **Odoo 11**:
 Technologies used **Linux**,**Odoo 11**(Python), **PostgreSQL**
+
 
 
 **September 2018 - November 2018:**
