@@ -148,9 +148,9 @@ so here the list of what i can do/what i did study:
 
 **2020 -2021:**(Currently)
 
-MPI
+(Project Management Institute ) PMI
 
- MIAGE Casa - Morocco
+ MIAGE Casablanca - Morocco
 
 
 
@@ -244,8 +244,3 @@ MongoDB
 Redis
 
 IoT
-
-
-
-
-		
