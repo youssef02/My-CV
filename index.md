@@ -5,7 +5,7 @@ ARRASSEN YOUSSEF
 
 
 (Currently i am Studying for my Master degree, and looking for a job) 
-(studing Project Management)
+(Completing my Master in Computer Science in Istanbul,Turkey)
 
 
 
@@ -26,7 +26,8 @@ ARRASSEN YOUSSEF
 
 ### ADDRESS:
 
-lot toufik boulouiz rue a 2 nr 44
+lot toufik boulouiz rue a 2 nr 44 
+60000
 oujda - Morocco
 
 
@@ -51,7 +52,7 @@ arrassen.youssef@gmail.com
 
 
 
-![Casual ME]({{site.baseurl}}/Image 2.jpeg)
+
 
 
 ## Nothing fancy
@@ -155,7 +156,17 @@ so here the list of what i can do/what i did study:
 
 		DIPLOMA AND EDUCATION
 
-**2020 -2021:**(Currently)
+**2021** (Currently)
+
+Computer engineering
+
+Excited for Computer Vision and ML
+
+ BAU Istanbul - Turkey
+ 
+ 
+
+**2020 -2021:**
 
 (Project Management Institute ) PMI
 
